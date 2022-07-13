@@ -5,7 +5,7 @@
  - [JavaScript Form Validation Example](https://www.javatpoint.com/javascript-form-validation)
  - [Propose Admin Template](https://demos.wrappixel.com/free-admin-templates/bootstrap/flexy-bootstrap-free/html/index.html)
 
-##Google APIs
+## Google APIs
 
  - [Maps URL](https://developers.google.com/maps/documentation/urls/get-started)
  - [Place Types](https://developers.google.com/maps/documentation/places/web-service/supported_types)
