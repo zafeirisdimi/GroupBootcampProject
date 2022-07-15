@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GroupProjectTestbed",
+    "\\GroupProjectTestbed\\GroupProjectTestbed",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\App_Start",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Models",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Shared"
   ],
-  "SelectedNode": "\\C:\\Users\\giann\\Source\\Repos\\GroupBootcampProject",
+  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
