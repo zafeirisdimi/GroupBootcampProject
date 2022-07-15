@@ -3,12 +3,10 @@
     "",
     "\\GroupProjectTestbed",
     "\\GroupProjectTestbed\\GroupProjectTestbed",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\App_Start",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Models",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Controllers",
     "\\GroupProjectTestbed\\GroupProjectTestbed\\Views",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Shared"
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home"
   ],
-  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\Controllers\\ManageController.cs",
   "PreviewInSolutionExplorer": false
 }
