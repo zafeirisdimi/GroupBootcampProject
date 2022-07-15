@@ -3,13 +3,9 @@
     "",
     "\\GroupProjectTestbed",
     "\\GroupProjectTestbed\\GroupProjectTestbed",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\App_Start",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Content\\templatejs",
     "\\GroupProjectTestbed\\GroupProjectTestbed\\Views",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Manage",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Shared\\CustomLayout"
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home"
   ],
-  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\App_Start\\BundleConfig.cs",
+  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\_ViewStart.cshtml",
   "PreviewInSolutionExplorer": false
 }
