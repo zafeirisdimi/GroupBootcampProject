@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\GroupProjectTestbed",
-    "\\GroupProjectTestbed\\GroupProjectTestbed",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Controllers",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views",
-    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home"
+    ""
   ],
-  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\Controllers\\ManageController.cs",
+  "SelectedNode": "\\GroupProjectTestbed.sln",
   "PreviewInSolutionExplorer": false
 }
