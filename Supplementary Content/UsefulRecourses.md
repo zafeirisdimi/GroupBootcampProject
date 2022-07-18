@@ -75,6 +75,8 @@ Table of contents
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 | `api_key` | `string` | **Required**. Your API key |
+| `api_key` | `string` | **Required**. Your API key |
+
 
 
 ---------------------------------------------------------------------------------------------------
