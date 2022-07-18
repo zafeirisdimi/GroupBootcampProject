@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Supplementary Content"
+    "\\GroupProjectTestbed",
+    "\\GroupProjectTestbed\\GroupProjectTestbed",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home",
+    "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Shared"
   ],
-  "SelectedNode": "\\Supplementary Content\\UsefulRecourses.md",
+  "SelectedNode": "\\GroupProjectTestbed\\GroupProjectTestbed\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
